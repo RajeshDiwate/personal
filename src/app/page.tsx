@@ -18,7 +18,7 @@ export default function Home() {
         <div className="h-[18vh] mb-7 md:mb-0  lg:h-full lg:w-1/2 relative">
           <Image
             src="/Logo_RD.png"
-            alt=""
+            alt="RD"
             fill
             className="object-contain lg:opacity-0 sm:opacity-100"
           />
