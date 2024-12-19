@@ -33,7 +33,7 @@ export default function Home() {
             with Creative Excellence.
           </h2>
           {/* DESC */}
-          <p className="md:text-xl">
+          <p className="md:text-xl text-black">
             Welcome to my digital world, where creativity meets innovations my
             portfolio blends aesthetic precision with coding mastery, showcasing
             a diverse range of projects committed to excellence.
