@@ -28,7 +28,7 @@ export default function Home() {
         {/* Text Container */}
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
-          <h2 className="text-4xl md:text-6xl font-bold">
+          <h2 className="text-4xl text-black md:text-6xl font-bold">
             Crafting Innovative Digital Experiences Today, Designing the Future
             with Creative Excellence.
           </h2>
