@@ -795,6 +795,9 @@ video {
 .h-\[16vh\] {
   height: 16vh;
 }
+.h-\[10vh\] {
+  height: 10vh;
+}
 .w-1 {
   width: 0.25rem;
 }

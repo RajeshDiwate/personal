@@ -15,7 +15,7 @@ export default function Home() {
     >
       <div className=" h-full flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48">
         {/* Image Conatiner */}
-        <div className="h-[16vh] mb-7 md:mb-0  lg:h-full lg:w-1/2 relative">
+        <div className="h-[18vh] mb-7 md:mb-0  lg:h-full lg:w-1/2 relative">
           <Image
             src="/Logo_RD.png"
             alt="RD"
@@ -26,9 +26,9 @@ export default function Home() {
         </div>
 
         {/* Text Container */}
-        <div className="h-1/2 mb-4 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
+        <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
-          <h2 className="text-4xl mb-4 text-black md:text-6xl font-bold">
+          <h2 className="text-4xl text-black md:text-6xl font-bold">
             Crafting Innovative Digital Experiences Today, Designing the Future
             with Creative Excellence.
           </h2>
