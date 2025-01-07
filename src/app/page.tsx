@@ -13,7 +13,7 @@ export default function Home() {
       animate={{ y: "0%" }}
       transition={{ duration: 1 }}
     >
-      <div className=" h-full flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48">
+      <div className=" h-[80vh] flex flex-col lg:flex-row px-4 sm:px-8 md:px-12 lg:px-20 xl:px-48">
         {/* Image Conatiner */}
         <div className="h-[18vh] mb-7 md:mb-0  lg:h-full lg:w-1/2 relative">
           <Image

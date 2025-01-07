@@ -85,13 +85,13 @@ export default function Navbar() {
           ))}
         </div>
         {/* logo */}
-        <div className="md:hidden lg:flex w-1/3 xl:justify-center">
+        <div className="md:hidden  lg:flex w-1/3 xl:justify-center">
           <Link
             href={"/"}
             className="bg-black font-semibold text-white rounded-md p-1  md:ml-20 flex items-center justify-center"
           >
             <span className="text-white mr-1.5 ml-1 ">React</span>
-            <span className=" w-16 h-8 rounded bg-white px-0.5 text-black flex items-center justify-center">
+            <span className=" w-16 h-8 rounded bg-white px-1 text-black flex items-center justify-center">
               Next
             </span>
           </Link>
