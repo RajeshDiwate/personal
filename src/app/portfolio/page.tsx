@@ -32,10 +32,10 @@ const items = [
   {
     id: 4,
     color: "from-purple-300 to-red-300",
-    title: "Rajapushpa",
-    desc: "Developed a dynamic website for Abundance Life in Rajapushpa Provincia, featuring 2 and 3BHK premium lifestyle apartments. Built with React.js, the platform offers an intuitive and responsive interface. Focused on fast loading times and smooth navigation, ensuring a seamless user experience. The website effectively presents apartment details and amenities, engaging prospective buyers",
-    img: "/Webimages/website8.png",
-    link: "/",
+    title: "Portfolio",
+    desc: "Welcome to my portfolio! Built with React.js, this site highlights my expertise in creating scalable, high-performance web applications. Explore my projects, skills, and experience through a clean, responsive, and user-friendly interface. Thanks for visiting",
+    img: "/Webimages/Portfolio.png",
+    link: "https://portfoliord.vercel.app/",
   },
 ];
 
