@@ -100,21 +100,11 @@ export default function Navbar() {
           {/* <Link href={""}>
             <Image src="/facebook.png" alt="git Image" width={30} height={24} />
           </Link> */}
-          <Link href={""}>
-            <Image
-              src="https://github.com/RajeshDiwate?tab=repositories"
-              alt="git Image"
-              width={24}
-              height={24}
-            />
+          <Link href={"https://github.com/RajeshDiwate?tab=repositories"}>
+            <Image src="/github.png" alt="git Image" width={24} height={24} />
           </Link>
-          <Link href={""}>
-            <Image
-              src="/linkedin.com/in/rajesh-diwate-050a20273"
-              alt="git Image"
-              width={24}
-              height={24}
-            />
+          <Link href={"https://www.linkedin.com/in/rajesh-diwate-050a20273/"}>
+            <Image src="/linkedin.png" alt="git Image" width={24} height={24} />
           </Link>
           {/* 
           <Link href={""}>
