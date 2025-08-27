@@ -200,7 +200,7 @@ export default function AboutPage() {
                 </div>
                 <div className="space-y-4">
                   <p className="text-xl font-medium">Primal Infosys</p>
-                  Nov2021 - Jun2023
+                  Mar2022 - Jun2023
                   <ul className="list-disc pl-5 space-y-2">
                     <li className="tracking-wider italic text-lg leading-relaxed">
                       Gather and analyze requirements from team leads and
